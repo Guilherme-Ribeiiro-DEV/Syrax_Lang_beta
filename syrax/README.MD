@@ -1,0 +1,1 @@
+I need ideas for creating this new backend language that I call Syrax. Send your pull request with your ideas on how to define functions and other basic things in a language, I'm counting on you!
